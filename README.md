@@ -25,7 +25,7 @@
 
 Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly digital experiences and building practical tools that solve real-world problems.
 
-I’m currently pursuing a BSc in Information Technology at Kirinyaga University, expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating responsive, accessible, and visually polished web interfaces.
+I’m currently pursuing a BSc in Information Technology at Kirinyaga University,expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating responsive, accessible, and visually polished web interfaces.
 
 ---
 
@@ -96,7 +96,7 @@ Expected graduation: October 2028
 ### Links
 <p align="left">
   <a href="https://github.com/Paeshy13">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
+    <img src="WhatsApp Image 2026-10-21 at 12.27.48 PM (1)" />
   </a>
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-Projects-000000?style=for-the-badge&logo=vercel" />
