@@ -49,9 +49,9 @@ Expected graduation: October 2028
 ## Certifications
 
 <div align="center">
-  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-udacity.png?raw=true" alt="Udacity Data Science certificate" width="900" />
+  <img src="WhatsApp Image 2026-10-21 at 12.27.48 PM (1)" alt="Udacity Data Science Certificate" width="900" />
   <br /><br />
-  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-data-breed-africa.png?raw=true" alt="Data Breed Africa AI certificate" width="1100" />
+  <img src="WhatsApp Image 2026-10-21 at 12.27.48 PMWhatsApp Image 2026-10-21 at 12.27.48 PM" alt="Data Breed Africa AI certificate" width="1100" />
 </div>
 
 ---
