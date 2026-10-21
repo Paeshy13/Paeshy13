@@ -25,7 +25,7 @@
 
 Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly [...]
 
-I’m currently pursuing a BSc in Information Technology at Kirinyaga University,expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating [...]
+I’m currently pursuing a BSc in Information Technology at Kirinyaga University, expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating [...]
 
 ---
 
@@ -49,9 +49,9 @@ Expected graduation: October 2028
 ## Certifications
 
 <div align="center">
-  <img src="WhatsApp Image 2026-10-21 at 12.27.48 PM (1)" alt="Udacity Data Science Certificate" width="900" />
+  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-udacity.png?raw=true" alt="Udacity Data Science certificate" width="900" />
   <br /><br />
-  <img src="WhatsApp Image 2026-10-21 at 12.27.48 PMWhatsApp Image 2026-10-21 at 12.27.48 PM" alt="Data Breed Africa AI certificate" width="1100" />
+  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-data-breed-africa.png?raw=true" alt="Data Breed Africa AI certificate" width="1100" />
 </div>
 
 ---
@@ -96,7 +96,7 @@ Expected graduation: October 2028
 ### Links
 <p align="left">
   <a href="https://github.com/Paeshy13">
-    <img src="WhatsApp Image 2026-10-21 at 12.27.48 PM (1)" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Vercel-Projects-000000?style=for-the-badge&logo=vercel" />
@@ -121,9 +121,10 @@ Expected graduation: October 2028
 
 ## Contact
 
-- GitHub: [Paeshy13](https://github.com/Paeshy13)
-- LinkedIn: [Patience Njoki](https://www.linkedin.com/in/patience-njoki-560a00369)
-- Email: [patiencenjoki00@gmail.com](mailto:patiencenjoki00@gmail.com)
+- Email: patiencenjoki00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/patience-njoki-560a00369
+- Phone: 0790921202
+- GitHub: https://github.com/Paeshy13
 
 ---
 
