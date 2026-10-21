@@ -1,5 +1,5 @@
 ## Hi there 👋<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Devel[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Devel[...]">
 </div>
 
 <h1 align="center">Software Engineer</h1>
