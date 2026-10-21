@@ -1,8 +1,8 @@
 ## Hi there 👋<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Software E</h1>
+<h1 align="center">Software Engineer</h1>
 
 <p align="center">
   <a href="https://github.com/Paeshy13">
@@ -23,9 +23,9 @@
 
 ## About Me
 
-Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly digital experiences and solving real-world problems through technology.
+Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly digital experiences and building practical tools that solve real-world problems.
 
-I’m currently pursuing a BSc in Information Technology at Kirinyaga University, expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating modern and responsive user interfaces.
+I’m currently pursuing a BSc in Information Technology at Kirinyaga University, expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating responsive, accessible, and visually polished web interfaces.
 
 ---
 
@@ -48,8 +48,11 @@ Expected graduation: October 2028
 
 ## Certifications
 
-- Certifications acquired through portfolio projects
-- Continuous learning through self-driven development and practical builds
+<div align="center">
+  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-udacity.png?raw=true" alt="Udacity Data Science certificate" width="900" />
+  <br /><br />
+  <img src="https://github.com/Paeshy13/Paeshy13/blob/main/cert-data-breed-africa.png?raw=true" alt="Data Breed Africa AI certificate" width="1100" />
+</div>
 
 ---
 
