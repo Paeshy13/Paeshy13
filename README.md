@@ -1,5 +1,5 @@
 ## Hi there 👋<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Hello%2C+I'm+Patience+Njoki+Ndungu;Frontend+Devel[...]
 </div>
 
 <h1 align="center">Software Engineer</h1>
@@ -23,9 +23,9 @@
 
 ## About Me
 
-Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly digital experiences and building practical tools that solve real-world problems.
+Hi, I’m Patience Njoki Ndungu, a passionate frontend developer and tech enthusiast with a growing interest in software engineering and AI-driven solutions. I enjoy creating clean, user-friendly [...]
 
-I’m currently pursuing a BSc in Information Technology at Kirinyaga University,expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating responsive, accessible, and visually polished web interfaces.
+I’m currently pursuing a BSc in Information Technology at Kirinyaga University,expected to graduate in October 2028. I have hands-on experience in frontend development, particularly in creating [...]
 
 ---
 
@@ -121,10 +121,9 @@ Expected graduation: October 2028
 
 ## Contact
 
-- Email: patiencenjoki00@gmail.com
-- LinkedIn: https://www.linkedin.com/in/patience-njoki-560a00369
-- Phone: 0790921202
-- GitHub: https://github.com/Paeshy13
+- GitHub: [Paeshy13](https://github.com/Paeshy13)
+- LinkedIn: [Patience Njoki](https://www.linkedin.com/in/patience-njoki-560a00369)
+- Email: [patiencenjoki00@gmail.com](mailto:patiencenjoki00@gmail.com)
 
 ---
 
